@@ -1,0 +1,14 @@
+What to do:
+- validation js
+
+Done: 
+- bikin carousel
+- responsive 810px
+- responsive hp
+-
+
+Notes:
+-
+-
+-
+-
